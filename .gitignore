@@ -104,7 +104,14 @@ venv.bak/
 # End of https://www.gitignore.io/api/python
 
 
-/reuslts/heart/*
+/results/heart/*
+/results/steps/*
+/resutls/calories/*
+/results/floors/*
+/results/minutesSedentary/*
+/results/minutesLightlyActive/*
+/results/minutesFairlyActive/*
+/results/minutesVeryActive/*
 
 !.keep
 
